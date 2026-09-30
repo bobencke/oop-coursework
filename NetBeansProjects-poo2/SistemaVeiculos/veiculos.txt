@@ -1,0 +1,10 @@
+Carro;Toyota;Corolla;2020;4
+Moto;Honda;CB500;2018;500
+Carro;Ford;Focus;2019;4
+Moto;Yamaha;MT-07;2020;689
+Carro;Chevrolet;Onix;2021;4
+Moto;Suzuki;GSX-S750;2019;749
+Carro;Volkswagen;Golf;2018;4
+Moto;Kawasaki;Ninja 400;2021;399
+Carro;Hyundai;HB20;2022;4
+Moto;Ducati;Monster 797;2020;803

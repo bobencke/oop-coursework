@@ -1,0 +1,10 @@
+LivroFisico;Dom Casmurro;Machado de Assis;1899;256
+LivroDigital;O Pequeno Príncipe;Antoine de Saint-Exupéry;1943;2.1
+LivroFisico;1984;George Orwell;1949;328
+LivroDigital;Harry Potter e a Pedra Filosofal;J.K. Rowling;1997;3.5
+LivroFisico;O Senhor dos Anéis: A Sociedade do Anel;J.R.R. Tolkien;1954;576
+LivroDigital;Cem Anos de Solidão;Gabriel García Márquez;1967;1.8
+LivroFisico;Orgulho e Preconceito;Jane Austen;1813;424
+LivroDigital;A Revolução dos Bichos;George Orwell;1945;1.2
+LivroFisico;Crime e Castigo;Fiódor Dostoiévski;1866;527
+LivroDigital;O Hobbit;J.R.R. Tolkien;1937;2.4

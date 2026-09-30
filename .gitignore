@@ -1,0 +1,12 @@
+# Java / NetBeans
+build/
+dist/
+*.class
+**/nbproject/private/
+**/lib/CopyLibs/
+
+# C# / Visual Studio
+bin/
+obj/
+.vs/
+*.user

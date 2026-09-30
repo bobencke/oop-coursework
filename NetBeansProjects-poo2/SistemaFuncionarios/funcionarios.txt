@@ -1,0 +1,10 @@
+Gerente;Carlos Silva;7500;1500
+Programador;Ana Souza;5000;Java
+Gerente;Mariana Lima;8200;2000
+Programador;Ricardo Alves;4800;Python
+Gerente;Fernando Costa;7900;1800
+Programador;Juliana Ribeiro;5300;JavaScript
+Gerente;Patrícia Mendes;8700;2200
+Programador;Lucas Martins;5100;C#
+Gerente;Roberto Nogueira;8100;1900
+Programador;Camila Santos;5200;Ruby
